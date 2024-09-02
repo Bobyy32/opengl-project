@@ -1,0 +1,8 @@
+/*
+!opengl-project/
+!opengl-project/**
+
+opengl-project/x64
+opengl-project/src/lib
+
+!.gitignore
